@@ -13,6 +13,4 @@ public class CepDTO {
     public String bairro;
     @JsonProperty("logradouro")
     public String rua;
-    @JsonProperty("service")
-    public String service;
 }
