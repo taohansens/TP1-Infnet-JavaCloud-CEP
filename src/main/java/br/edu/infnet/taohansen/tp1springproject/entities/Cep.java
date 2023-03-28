@@ -1,7 +1,5 @@
 package br.edu.infnet.taohansen.tp1springproject.entities;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 public class Cep {
 
     private String cep;
